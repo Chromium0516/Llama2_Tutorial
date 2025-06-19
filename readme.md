@@ -30,5 +30,7 @@ python main.py
 # <span style="color:red">Acknowledgment</span>
 ## <span style="color:blue">This project is not possible without the following codebases.：</span>
 Llama中文社区
+
 AtomEcho
+
 https://github.com/LlamaFamily/Llama-Chinese
