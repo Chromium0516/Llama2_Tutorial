@@ -15,7 +15,8 @@ pip install -r requirements.txt
 ### 测试原模型
 python main.py
 # 国内下载问题可以用网盘代替
-## 
+## 通过网盘分享的文件：Llama2必要文件 链接: https://pan.baidu.com/s/12w8SQwPTlK9jbJy-pUDIjQ?pwd=1234 提取码: 1234 
+
 ---
 # 文件介绍
 
